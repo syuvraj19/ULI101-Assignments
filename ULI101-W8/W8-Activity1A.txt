@@ -1,0 +1,12 @@
+ACTIVITY #1 - Solutions -
+
+1. mkdir -p webApp/{404.html,css,doc,.hataccess,img,js,plugins/plugin_exp,robots,vendor}
+2. touch webApp/css/{main.css,normalize.css}
+3. touch webApp/img/{pic_1.jpg,pic_2.jpg}
+4. touch webApp/js/{app.js,appService.js}
+5. touch webApp/plugins/plugin_exp/{plugin_exp.js,web.txt}
+6. touch webApp/robots/{.favicon.ts,.site.webmanfest}
+7. touch webApp/vendor/{jquery.min.js,modrenenizr.min.js}
+
+
+

@@ -1,0 +1,30 @@
+Activity 2:
+
+2. Write a Bash Shell script "display.sh" that displays the following output on the screen:
+
+*
+**
+***
+****
+*****
+11111
+2222
+333
+44
+5
+
+Activity 2 - Solutions -
+
+#!/bin/bash
+
+# Display the pattern
+echo "*"
+echo "**"
+echo "***"
+echo "****"
+echo "*****"
+echo "11111"
+echo "2222"
+echo "333"
+echo "44"
+echo "5"
